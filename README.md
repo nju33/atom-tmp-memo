@@ -2,6 +2,8 @@
 
 An Atom package that add memo space.
 
+![Atom Tmp Memo](https://github.com/nju33/atom-tmp-memo/blob/master/screenshot.png?raw=true)
+
 ## Motivation
 
 - I wanted a little space that was not affected by the text editor part.
