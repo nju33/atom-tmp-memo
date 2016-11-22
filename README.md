@@ -18,8 +18,6 @@ apm install tmp-memo
 - Run `Tmp Memo: Toggle` command.
 - Use `ctrl-alt-0`
 
-### Commands
-
 ## Customize
 
 change `.atom-tmp-memo__text-editor` style to your liking
