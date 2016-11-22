@@ -1,0 +1,12 @@
+{
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "Tmp Memo",
+      "submenu": [{
+        "label": "Toggle",
+        "command": "Tmp Memo: Toggle"
+      }]
+    }]
+  }]
+}

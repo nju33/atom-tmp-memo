@@ -1,0 +1,18 @@
+@import "ui-variables";
+
+.reset-textarea() {
+  border: none;
+  resize: none;
+}
+
+.atom-tmp-memo__text-editor {
+  .reset-textarea;
+  background: @pane-item-background-color;
+  color: @text-color;
+  width: 25em;
+  height: 100vh;
+  padding: .5em;
+  white-space: nowrap;
+  line-height: 1.3;
+  font-size: 10px;
+}

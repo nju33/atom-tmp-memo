@@ -1,0 +1,21 @@
+{
+  "name": "tmp-memo",
+  "main": "./lib/tmp-memo",
+  "version": "0.0.0",
+  "description": "An Atom package that add memo space.",
+  "keywords": [
+    "tmp",
+    "memo",
+    "panel"
+  ],
+  "activationCommands": {
+    "atom-workspace": "Tmp Memo: Toggle"
+  },
+  "repository": "https://github.com/atom/tmp-memo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
